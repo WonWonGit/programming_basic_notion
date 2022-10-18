@@ -14,5 +14,4 @@ public class FuctionComposeExample {
         System.out.println(result);
     }
 
-
 }
