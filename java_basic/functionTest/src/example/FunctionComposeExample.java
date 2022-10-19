@@ -2,7 +2,7 @@ package example;
 
 import java.util.function.Function;
 
-public class FuctionComposeExample {
+public class FunctionComposeExample {
     public static void main(String[] args) {
         
         Function<Integer, Integer> add = a -> a + a;
