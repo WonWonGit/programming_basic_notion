@@ -1,4 +1,3 @@
-import enums.Boy;
 import enums.Rank;
 
 public class App {
